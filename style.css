@@ -63,6 +63,7 @@ section {
                 & img {
                     width: 100%;
                     transform: rotate(-20deg);
+                    max-width: 500px;
                 }
 
                 &::before{
